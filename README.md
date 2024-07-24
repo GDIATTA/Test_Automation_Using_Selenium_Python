@@ -24,8 +24,8 @@ First you need to configure the coding environment. Follow these steps :<br>
 > 1. Create the project folder.<br>
 > 2. Install pipenv by running: **pip install pipenv**.<br>
 > 3. Locate where pipenv is installed by running: python -m site --user-base. Copy the directory path and add it to the system environment variables. Verify the pipenv installation by running: **pipenv --version**.<br>
-> 4. Activate the project folder by running: pipenv shell.<br>
-> 5. Install the necessary packages (selenium and pytest) using pipenv: pipenv install selenium pytest. Verify the installation by running: pip list and pipenv graph.<br>
+> 4. Activate the project folder by running: **pipenv shell**.<br>
+> 5. Install the necessary packages (**selenium and pytest**) using pipenv: **pipenv install selenium pytest**. Verify the installation by running: **pip list** and **pipenv graph**.<br>
 > 6. Create a file structure in the project folder as follows:<br>
 ├── **Pipfile**<br>
 ├── **Pipfile.lock**<br>
