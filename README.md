@@ -1,10 +1,10 @@
 ### Test_Automation_Using_Selenium_Python
 
------------------------- **TEST - AUTOMATION USING SELENIUM AND PYTHON** ------------------ 
+------------------------------ **TEST - AUTOMATION USING SELENIUM AND PYTHON** -----------------------------------
 
 **Selenium** is an open source automation tool used for interacting with web applications for testing purposes.<br>
 
--1. **How can you use selenium with python for automatic test ?**<br>
++1. **How can you use selenium with python for automatic test ?**<br>
 
 That's two ways to do a automatic test using **python** and **selenium** :<br>
 
