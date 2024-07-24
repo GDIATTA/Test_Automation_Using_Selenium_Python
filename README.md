@@ -27,27 +27,27 @@ First you need to configure the coding environment. Follow these steps :<br>
 > 4. Activate the project folder by running: pipenv shell.<br>
 > 5. Install the necessary packages (selenium and pytest) using pipenv: pipenv install selenium pytest. Verify the installation by running: pip list and pipenv graph.<br>
 > 6. Create a file structure in the project folder as follows:<br>
-├── **Pipfile**
-├── **Pipfile.lock**
-├── **pytest.ini**
-└── **tests**
-    ├── __init__.py
-    ├── **conftest.py**
-    ├── **pages**
-    │   ├── **login_page.py**
-    │   └── **search_page.py**
-    ├── **test_basic_selenium.py**
-    └── **test_pom.py**
+├── **Pipfile**<br>
+├── **Pipfile.lock**<br>
+├── **pytest.ini**<br>
+└── **tests**<br>
+    ├── __init__.py<br>
+    ├── **conftest.py**<br>
+    ├── **pages**<br>
+    │   ├── **login_page.py**<br>
+    │   └── **search_page.py**<br>
+    ├── **test_basic_selenium.py**<br>
+    └── **test_pom.py**<br>
 
 To do this, follow these steps:<br>
-**mkdir tests**
-**New-Item -ItemType File -Name Pipfile**
-**New-Item -ItemType File -Name pytest.ini**
-**New-Item -ItemType Directory -Name tests**
-**New-Item -ItemType File -Name tests\__init__.py**
-**New-Item -ItemType File -Name tests\conftest.py**
-**New-Item -ItemType Directory -Name tests\pages**
-**New-Item -ItemType File -Name tests\pages\login_page.py**
-**New-Item -ItemType File -Name tests\pages\search_page.py**
-**New-Item -ItemType File -Name tests\test_basic_selenium.py**
-**New-Item -ItemType File -Name tests\test_pom.py**
+**mkdir tests**<br>
+**New-Item -ItemType File -Name Pipfile**<br>
+**New-Item -ItemType File -Name pytest.ini**<br>
+**New-Item -ItemType Directory -Name tests**<br>
+**New-Item -ItemType File -Name tests\__init__.py**<br>
+**New-Item -ItemType File -Name tests\conftest.py**<br>
+**New-Item -ItemType Directory -Name tests\pages**<br>
+**New-Item -ItemType File -Name tests\pages\login_page.py**<br>
+**New-Item -ItemType File -Name tests\pages\search_page.py**<br>
+**New-Item -ItemType File -Name tests\test_basic_selenium.py**<br>
+**New-Item -ItemType File -Name tests\test_pom.py**<br>
