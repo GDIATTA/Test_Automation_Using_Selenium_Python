@@ -2,7 +2,7 @@
 
 
 
-**TEST - AUTOMATION USING SELENIUM AND PYTHON**:
+**TEST - AUTOMATION USING SELENIUM AND PYTHON** :
 
 **Selenium** is an open source automation tool used for interacting with web applications for testing purposes.<br>
 
